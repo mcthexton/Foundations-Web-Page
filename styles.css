@@ -63,3 +63,39 @@ h1 {
     width: 150px;
     margin-top: 15px;
 }
+
+.placeholder {
+    width: 500px;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+    margin-bottom: 75px;
+}
+
+.info {
+    max-width: 150px;
+    color: #1F2937;
+}
+
+.info-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: solid 5px #3882F6;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
