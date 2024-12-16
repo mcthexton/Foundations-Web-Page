@@ -96,6 +96,24 @@ h2 {
     border: solid 5px #3882F6;
 }
 
-.quote {
+.quote-container {
     background-color: #E5E7EB;
+    padding: 100px 600px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    margin-bottom: 0;
+    font-weight: 100;
+}
+
+.quotationist {
+    color: #1F2937;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
 }
