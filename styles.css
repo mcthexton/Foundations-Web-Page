@@ -117,3 +117,32 @@ h2 {
     justify-content: flex-end;
     padding-right: 20px;
 }
+
+.action {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 500px;
+    padding: 30px 100px;
+}
+
+.call {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: -15px;
+}
+
+.up {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border: solid 1px white;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 8px 30px;
+    width: 150px;
+    align-self: center;
+}
