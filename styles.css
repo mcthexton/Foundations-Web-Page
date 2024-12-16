@@ -24,7 +24,7 @@ ul {
     gap: 20px;
 }
 
-.top-bar {
+.navigation-bar {
     display: flex;
     justify-content: space-around;
 }
@@ -54,7 +54,7 @@ h1 {
     gap: 30px;
 }
 
-.sign-up {
+.btn-one {
     background-color: #3882F6;
     color: #E5E7EB;
     border: none;
@@ -132,13 +132,13 @@ h2 {
     margin: 50px 100px;
 }
 
-.call {
+.action-title {
     font-size: 18px;
     font-weight: bold;
     margin-bottom: -15px;
 }
 
-.up {
+.btn-two {
     background-color: #3882F6;
     color: #E5E7EB;
     border: solid 1px white;
